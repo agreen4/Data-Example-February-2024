@@ -1,0 +1,9 @@
+---
+title: "My Cool Document"
+author: "Andrew J. Greenlee"
+format: html
+---
+
+## Introduction
+
+This is a cool document!
